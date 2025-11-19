@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Login from "./pages/Login";
-import Dashboard from "./pages/Dashboard";
-import BookTrip from "./pages/BookTrip";
-import BookRoom from "./pages/BookRoom";
-import Header from "./components/Header";
+import Login from "./Login";
+import Dashboard from "./Dashboard";
+import BookTrip from "./BookTrip";
+import BookRoom from "./BookRoom";
+import Header from "./Header";
 import "./styles/global.css";
 function App() {
   return (
